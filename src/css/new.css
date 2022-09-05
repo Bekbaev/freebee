@@ -1,0 +1,25 @@
+.mb-20 {
+  margin-bottom: 20px;
+}
+.ml-20 {
+  margin-left: 20px;
+}
+.w-200 {
+  width: 200px;
+}
+.w-250 {
+  width: 250px;
+}
+.w-50pr {
+  width: 50%;
+}
+.w-90pr {
+  width: 90%;
+}
+.d-flex {
+  display: flex;
+}
+
+.form-check-label {
+  margin-left: 20px;
+}

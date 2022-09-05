@@ -4,7 +4,7 @@ import jwtDecode from 'jwt-decode'
 import moment from 'moment'
 
 const instance = axios.create({
-    baseURL: 'https://lumen.devcores.site/api/',
+    baseURL: 'http://fl1.wistis.ru/',
 })
 
 instance.interceptors.request.use(
